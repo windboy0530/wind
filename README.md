@@ -1,3 +1,4 @@
 # wind
 wind
 fuck
+gun
